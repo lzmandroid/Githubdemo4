@@ -7,10 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String num;
-    private TextView tv_test;
 
-    private Button btnTets;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
