@@ -12,6 +12,8 @@ import android.widget.TextView;
  */
 public class TestActivity extends Activity {
 
+    private TextView textView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
